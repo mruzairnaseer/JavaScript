@@ -12,7 +12,7 @@ To get started with this repository, you can either:
 
 1. Clone the repository to your local machine using Git.
    ```bash
-   git clone https://github.com/yourusername/javascript-learning-materials.git
+   git clone https://github.com/mruzairnaseer/JavaScript.git
 
 2. Download the contents as a ZIP file by clicking the "Download ZIP" button.
 Contents
