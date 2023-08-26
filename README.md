@@ -29,7 +29,7 @@ Online courses
 Documentation
 Feel free to explore the contents and choose the resources that best suit your learning style and objectives.
 
-##Contributing
+## Contributing
 
 Contributions are welcome! If you have additional JavaScript learning materials, tutorials, or projects that you would like to share with the community, please consider contributing to this repository. Here's how you can contribute:
 
