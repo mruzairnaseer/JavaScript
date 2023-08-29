@@ -90,4 +90,35 @@ const item = {
 console.log(item["Uzair"]);
 */
 
+// Chapter 1 - Q1
+let a = "Harry"
+let b = 6
+console.log(a + b) // Concatination is done here giving output Harry6
+
+// Chapter 1 - Q2
+console.log(typeof (a+b)) // Gives the type after concatination which string
+
+// Chapter 1 - Q3
+const a1 = {    //a1 is a const which can't be change but the value it is pointing to can be changed, consider a1 as a pointer whose value doesn't change but the of other data type(obj) can be change
+  name: "Harry",
+  section: 1,
+  isPrincipal: false
+}
+// a1 = 45   //It gives error as const can't be changed 
+// a1 = {}   //Also gives error as a new object is assigning which isn't possible in const
+
+// Chapter 1 - Q4
+a1['friend'] = "Shubham"  // It is possible because we are updated the object not a1 which is const
+a1['name'] = "Lovish"  
+console.log(a1) // Gives { name: 'Lovish', section: 1, isPrincipal: false, friend: 'Shubham' }
+
+// Chapter 1 - Q5
+const dict = {
+  appreciate: "recognize the full worth of.",
+  ataraxia: "a state of freedom from emotional disturbance and anxiety",
+  yakka: "work, especially hard work."
+}
+
+console.log(dict.yakka) // dict.yakka is used to access the values of an object
+
 //console.log(start here!)
