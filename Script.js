@@ -90,6 +90,8 @@ const item = {
 console.log(item["Uzair"]);
 */
 
+/*s
+
 // Chapter 1 - Q1
 let a = "Harry"
 let b = 6
@@ -120,5 +122,58 @@ const dict = {
 }
 
 console.log(dict.yakka) // dict.yakka is used to access the values of an object
+
+*/
+
+/*
+// Arithmetic Operators 
+let a = 10;
+let b = 4;
+console.log("a + b = ", a + b)
+console.log("a - b = ", a - b)
+console.log("a / b = ", a / b)
+console.log("a ** b = ", a ** b) //power
+console.log("a % b = ", a % b)
+console.log("++a = ", ++a) // first increment then display
+console.log("a++ = ", a++) // first display then increment 
+console.log("--a = ", --a)
+console.log("a-- = ", a--)
+console.log("a = ", a)
+console.log("a-- = ", a--)
+
+// Assignment Operators 
+let assignment = 1;
+assignment += 5 // same as assignment = assignment + 5
+console.log("a is now = ", a)
+assignment -= 5 // same as assignment = assignment - 5
+console.log("a is now = ", a)
+assignment *= 5 // same as assignment = assignment * 5
+console.log("a is now = ", a)
+assignment /= 5 // same as assignment = assignment / 5
+console.log("a is now = ", a)
+
+// Comparison Operators 
+let comp1 = 6;
+let comp2 = 7;
+console.log("comp1 == comp2 is ", comp1 == comp2) //check value not type
+console.log("comp1 != comp2 is ", comp1 != comp2)
+console.log("comp1 === comp2 is ", comp1 === comp2) //check value plus type
+console.log("comp1 !== comp2 is ", comp1 !== comp2)
+console.log("comp1 > comp2 is ", comp1 > comp2)
+
+// Logical Operators
+let x = 5;
+let y = 6;
+console.log(x<y && x==5)
+console.log(x>y || x==5)
+console.log(!false)
+console.log(!true)
+
+// Comments
+// This is a single line comment
+//  This is a sample multiline comment and a tutorial
+// from 
+// codewithharry 
+*/
 
 //console.log(start here!)
