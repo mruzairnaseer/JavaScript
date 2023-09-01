@@ -176,6 +176,8 @@ console.log(!true)
 // codewithharry 
 */
 
+/*
+
 let a = prompt("Hey whats you age?"); // input in the browser with the prompt
 a = Number.parseInt(a); // Converting the string to a number
 if(a<0){
@@ -194,4 +196,5 @@ console.log("Done")
 // HomeWork - Explore switch statement and write a basic program in the comments
 console.log("You can", (a<18? "not drive" :"drive")) //ternary operator used here
 
+*/
 //console.log(start here!)
