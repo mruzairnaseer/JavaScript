@@ -196,5 +196,5 @@ console.log("Done")
 // HomeWork - Explore switch statement and write a basic program in the comments
 console.log("You can", (a<18? "not drive" :"drive")) //ternary operator used here
 
-*/
+*/.
 //console.log(start here!)
